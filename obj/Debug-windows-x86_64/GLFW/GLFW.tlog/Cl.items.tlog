@@ -1,0 +1,15 @@
+D:\Codi\Core\vendor\GLFW\src\context.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\context.obj
+D:\Codi\Core\vendor\GLFW\src\egl_context.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\egl_context.obj
+D:\Codi\Core\vendor\GLFW\src\init.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\init.obj
+D:\Codi\Core\vendor\GLFW\src\input.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\input.obj
+D:\Codi\Core\vendor\GLFW\src\monitor.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\monitor.obj
+D:\Codi\Core\vendor\GLFW\src\osmesa_context.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\osmesa_context.obj
+D:\Codi\Core\vendor\GLFW\src\vulkan.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\vulkan.obj
+D:\Codi\Core\vendor\GLFW\src\wgl_context.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\wgl_context.obj
+D:\Codi\Core\vendor\GLFW\src\win32_init.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\win32_init.obj
+D:\Codi\Core\vendor\GLFW\src\win32_joystick.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\win32_joystick.obj
+D:\Codi\Core\vendor\GLFW\src\win32_monitor.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\win32_monitor.obj
+D:\Codi\Core\vendor\GLFW\src\win32_thread.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\win32_thread.obj
+D:\Codi\Core\vendor\GLFW\src\win32_time.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\win32_time.obj
+D:\Codi\Core\vendor\GLFW\src\win32_window.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\win32_window.obj
+D:\Codi\Core\vendor\GLFW\src\window.c;D:\Codi\Core\vendor\GLFW\obj\Debug-windows-x86_64\GLFW\window.obj
